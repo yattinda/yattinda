@@ -1,6 +1,18 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yattinda&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yattinda&theme=onedark&show_icons=ture" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400d3&width=500&lines=yattinda" />
+
+## About me
+駆け出し組み込みエンジニア（C++）
+学生時代はハッカソン参加したりもしてました
+
+## Tech stack
+(ハッカソンでその場しのぎに使ったりLLMに丸投げしたり...)
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,react,dart,flutter,html,ruby,linux,git,github" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yattinda&theme=onedark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+-----
+
+<div align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=yattinda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://streak-stats.demolab.com/?user=yattinda&theme=tokyonight&hide_border=true" />
+</div>
